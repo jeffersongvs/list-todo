@@ -1,6 +1,6 @@
  <h1 align="center">ToDo - Lista de Tarefas</h1> 
  
- Feito utilizando NodeJs e Angula. 
+ Feito utilizando NodeJs e Angular. 
  angular fazendo chamadas na api feita em nest js. 
  Banco de dados MongoDB. 
  Para CSS da aplicação foi utilizado bootstrap. 
